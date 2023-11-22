@@ -1,5 +1,4 @@
 # test_suma.py
-
 import unittest
 from suma import sumar, restar, multiplicar, dividir
 
